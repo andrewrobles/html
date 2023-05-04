@@ -2,7 +2,7 @@
 
 
 <pre>
-for 
+&lcub;&percnt; for todo in todo_list &percnt;&rcub;
 &lt;html&gt;
     &lt;head&gt;
     &lt;title&gt;Welcome to campuslife.&lt;/title&gt;
