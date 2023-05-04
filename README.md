@@ -1,5 +1,5 @@
 # html
 
 <pre>
-&lt;html&gt
+&lt;html&gt;
 </pre>
